@@ -1246,7 +1246,9 @@ body.page #main-content { padding-top: 0; padding-bottom: 0; }
 
 @media only screen and (max-width: 767px) {
 	#top-bar { display: none; }
-
+     .text{
+		font-size: 20px;
+	 }
 	#site-header #site-header-inner,
 	#site-header.style-2 #site-header-inner,
 	#site-header.style-3 #site-header-inner,
